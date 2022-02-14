@@ -5,7 +5,7 @@
 
 
 #define PIEZO 8
-int octo = 2;                // to opto 
+int octo = 2;                // to optocoupler ANODE
 int upstair_pir = 3;         //From PIR upstairs
 int downstair_pir = 4;      //From PIR downstairs
 int led_on_time = 60000;    //1minute    //How long light stays ON

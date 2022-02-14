@@ -1,4 +1,4 @@
-# auto_stairs_light
+# Auto Stairs Light With Motion Detector
 Stair Light With Motion's Detector Using PIR, Arduino and any LED strip
 
 
